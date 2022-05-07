@@ -1,1 +1,111 @@
 @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Roboto+Slab:wght@500&family=Source+Sans+Pro:wght@200;400;600&display=swap');
+
+h1 {
+    text-align: center;
+    color: black;
+}
+
+li {
+    display: inline-block;
+    list-style-type: none;
+    margin: auto;
+    padding: 1px;
+    color: grey;
+    
+
+}
+
+a {
+    color: grey;
+    text-decoration: none;
+
+}
+
+ul {
+    text-align: center;
+    font-family: sans-serif;
+    color: grey;
+    border-top: 1px solid lightgrey;
+    border-bottom: 1px solid lightgrey;
+
+}
+
+h5 {
+    color: red;
+
+}
+nav{
+    text-align: center;
+    border-left: 0px;
+    border-right: 0px;
+}
+
+nav a{
+    color: #777;
+    font-family: Source Sans Pro;
+    text-decoration: none;
+    opacity: .5;
+    font-weight: 400;
+
+}
+
+main img{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+
+}
+section{
+    display: inline-block;
+    width: 40%;
+
+}
+
+.more-articles{
+width: 70em;
+display:flex;
+justify-content: space-between;
+margin: auto;
+
+
+}
+
+header{
+    color: grey;
+    font-family: sans-serif;
+}
+
+
+p {
+    font-family: sans-serif;
+    color: grey;
+
+}
+
+
+section {
+    position: 20px;
+
+}
+
+nav{
+    position: sticky;
+    top: 0px;
+    background-color: white;
+
+}
+body {
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px;
+}
+html {
+    padding: 4em;
+    background-color: lightgrey;
+
+}
+
+.bottom-pic {
+    width: 100%;
+}
